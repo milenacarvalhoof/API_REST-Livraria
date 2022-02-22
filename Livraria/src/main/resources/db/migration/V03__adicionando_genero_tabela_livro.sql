@@ -1,0 +1,1 @@
+ALTER TABLE tb_livro ADD genero VARCHAR(255) NOT NULL;
